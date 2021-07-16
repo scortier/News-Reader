@@ -3,7 +3,7 @@ import { Typography } from '@material-ui/core';
 import wordsToNumbers from 'words-to-numbers';
 import alanBtn from '@alan-ai/alan-sdk-web';
 
-// import logo from './images/logo.png';
+import logo from './logo.jpeg';
 import { NewsCards, Modal } from './components';
 import useStyles from './styles';
 
