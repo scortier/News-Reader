@@ -2,7 +2,7 @@
 
 ### [Live Site](https://alan-news-app.netlify.app/)
 
-![Voice Controlled React News Application](https://i.ibb.co/SVyK6Nh/Screenshot-2020-08-03-at-21-24-23.png)
+![Voice Controlled React News Application](https://user-images.githubusercontent.com/44753901/127366790-89ac8654-697f-4dba-8078-d14640ad2452.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
