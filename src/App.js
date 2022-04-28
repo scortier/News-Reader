@@ -40,14 +40,14 @@ const App = () => {
           }
         }
       },
-      onConnectionStatus: async function (status) {
-        if (status === 'authorized') {
-          await alanBtnInstance.activate();
-          alanBtnInstance.playText(
-            'Welcome to the Alan AI News Reader App by Aditya Singh Sisodiya'
-          );
-        }
-      },
+//       onConnectionStatus: async function (status) {
+//         if (status === 'authorized') {
+//           await alanBtnInstance.activate();
+//           alanBtnInstance.playText(
+//             'Welcome to the Alan AI News Reader App by Aditya Singh Sisodiya'
+//           );
+//         }
+//       },
     });
   }, []);
 
